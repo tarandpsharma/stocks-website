@@ -1,0 +1,17 @@
+<div>
+                    Market Value <span> $16340.4 </span>
+                  </div>
+                  <div>
+                    % 0f portfolio Value <span> 21.89% </span>
+                  </div>
+
+
+
+
+
+                  <Typography gutterBottom variant="h5" component="div">
+                    Unrealized P/L <span> $3,676.93</span>
+                  </Typography>
+                  <Typography variant="body2" color="text.secondary">
+                  % 0f portfolio Value <span> 20.48% </span>
+                  </Typography>
